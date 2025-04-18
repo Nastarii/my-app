@@ -60,9 +60,19 @@ my-app/
 ├── server/             # FastAPI application
 ├── server/db           # Alembic migrations
 ├── client/             # Streamlit application
+├── docs/               # Project Documentation
 ├── docker-compose.yml  # Docker configuration
-└── README.md           # Project documentation
+└── README.md           # General informations
 ```
+
+
+## Template Interface
+
+![User Interface](docs/ui.png)
+
+## Template FastAPI Swagger
+
+![Server Interface](docs/server-routes.png)
 
 ## License
 
